@@ -1,6 +1,4 @@
-## Привет! Я Frontend-разработчик
-
----
+# Привет! Я Frontend-разработчик
 
 ## 📬 Контакты
 - Email: arslan.bovaeff@yandex.ru
