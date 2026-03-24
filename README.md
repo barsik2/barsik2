@@ -38,6 +38,7 @@
 - [NeuroFlex](https://neuroflex.ru/)
 - [Лексифика](https://lexifika.ru/)
 - [Генератор курсов](https://learn.neuroflex.ru/)
+- [ЮФУ Про](https://xn--n1abdke3d.xn--p1ai/)
 
 ## 🔬 Статьи 
 - [Интеграция больших языковых моделей в логистические процессы](https://elibrary.ru/item.asp?id=82821539)
