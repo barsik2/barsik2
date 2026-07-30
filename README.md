@@ -40,6 +40,7 @@
 - [Генератор курсов](https://learn.neuroflex.ru/)
 - [ЮФУ Про](https://xn--n1abdke3d.xn--p1ai/)
 - [Система стажировок иностранных студентов](https://russia-internship.ru/)
+- [Zarya GRT](https://zarya-grt.ru/)
 
 ## 🔬 Статьи 
 - [Интеграция больших языковых моделей в логистические процессы](https://elibrary.ru/item.asp?id=82821539)
